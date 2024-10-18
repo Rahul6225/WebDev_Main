@@ -1,0 +1,5 @@
+* React Controls UI Updation 
+* UseState
+    //It manages the state of a variable present in the UI;
+    syntax:
+    let [counter,SetCounter]=UseState(Default VAlue)

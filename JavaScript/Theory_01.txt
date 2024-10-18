@@ -1,0 +1,2 @@
+JavaScript:->
+"Everything in the javaScript Happens inside an Execution Context"
